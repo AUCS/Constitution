@@ -20,7 +20,7 @@ The Club will be registered with the Adelaide University Union
 
 4 Purpose of the association
 ----------------
-The purpose of the association is to bring people together over a shared love of cheese, and to provide members with detailed knowledge of cheese.
+The purpose of the association is to bring people together over a shared love of cheese, and so that members can share and grow their detailed knowledge of cheese.
 
 5 Membership
 ----------------
