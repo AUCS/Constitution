@@ -42,8 +42,8 @@ The committee shall be responsible for the management of the club. The committee
 The following shall be the Office Bearers of the club, of which Le Grande Fromage and the <Treasurer> must be students or staff of the University.
 ##### 6.1 Le Grand Fromage
 
-* Responsible for chairing all meetings of the club and the committee
-* Spokesperson for the club
+* Responsible for chairing all meetings of the club and the committee.
+* Spokesperson for the club.
 
 ##### 6.2 Le Petit Grand Fromage
 
@@ -72,7 +72,7 @@ to attend three (3) committee meetings without a leave of absence being granted.
 ----------------
 A quorum for a meeting of the association shall be five members of the committee, one
 of whom must be a member of the committee.
-## 8.1
+##### 8.1
 Seven (7) days notice shall be given to members for an AGM or SGM. The notice shall set
 out where and when the meeting will be held, and particulars of the nature and order
 of business to be transacted at the meeting.
