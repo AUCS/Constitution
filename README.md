@@ -25,32 +25,43 @@ The purpose of the association is to bring people together over a shared love of
 5 Membership
 ----------------
 ### Application and Resignation
-5.1 Members may freely join and resign from the club, so long as they meet the requirements regarding membership.
-5.2 Members may resign from membership of the association by giving written notice to the committee. Any resigning member be liable for any outstanding subscriptions which may be recovered as a debt due to the association.
-5.3 Subject to giving a member an opportunity to be heard or to make a written submission, the committee may recommend the explusion of a member upon a charge of misconduct detrimental to the interests of the association or its affiliates or the University.
+##### 5.1
+Members may freely join and resign from the club, so long as they meet the requirements regarding membership.
+
+##### 5.2
+Members may resign from membership of the association by giving written notice to the committee. Any resigning member be liable for any outstanding subscriptions which may be recovered as a debt due to the association.
+
+##### 5.3
+Subject to giving a member an opportunity to be heard or to make a written submission, the committee may recommend the explusion of a member upon a charge of misconduct detrimental to the interests of the association or its affiliates or the University.
+
 
 6 The Committee
 ----------------
 The committee shall be responsible for the management of the club. The committee shall comprise of all Office Bearers of the committee and upto 5 general members. The committee has the managment and control of the funds and other assets of the association.
-## Office Bearers
+### Office Bearers
 The following shall be the Office Bearers of the club, of which Le Grande Fromage and the <Treasurer> must be students or staff of the University.
-### 6.1 Le Grand Fromage
+##### 6.1 Le Grand Fromage
 
 * Responsible for chairing all meetings of the club and the committee
 * Spokesperson for the club
 
-### 6.2 Le Petit Grand Fromage
+##### 6.2 Le Petit Grand Fromage
 
 * Shall fulfill the responsibilities of Le Grand Fromage, where Le Grande Fromage is unable to.
+* Responsible for the club's social media pages.
 
-### 6.3 <Secretary>
+##### 6.3 Cheese Raiser
 
-* todo
+* Responsible for organising fundraising events for the Club.
 
-### 6.4 The Keeper of Cheese
+##### 6.4 The Keeper of Cheese
 
 * Responsible for maintaining the clubs finances.
- 
+
+##### 6.5 Industry Spokescheese
+
+* Responsible for communicating and organising events with the Cheese Industy.
+
 7 Disqualification of Committee Members
 ----------------
 The office of a committee member shall become vacant if a committee member is:
