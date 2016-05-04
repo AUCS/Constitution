@@ -32,16 +32,23 @@ The purpose of the association is to bring people together over a shared love of
 6 The Committee
 ----------------
 The committee shall be responsible for the management of the club. The committee shall comprise of all Office Bearers of the committee and upto 5 general members. The committee has the managment and control of the funds and other assets of the association.
-### Office Bearers
+## Office Bearers
 The following shall be the Office Bearers of the club, of which Le Grande Fromage and the <Treasurer> must be students or staff of the University.
-## 6.1 Le Grand Fromage
+### 6.1 Le Grand Fromage
+
 * Responsible for chairing all meetings of the club and the committee
 * Spokesperson for the club
-## 6.2 Le Petit Grand Fromage
+
+### 6.2 Le Petit Grand Fromage
+
 * Shall fulfill the responsibilities of Le Grand Fromage, where Le Grande Fromage is unable to.
-## 6.3 <Secretary>
+
+### 6.3 <Secretary>
+
 * todo
-## 6.4 The Keeper of Cheese
+
+### 6.4 The Keeper of Cheese
+
 * Responsible for maintaining the clubs finances.
  
 7 Disqualification of Committee Members
