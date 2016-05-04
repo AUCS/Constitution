@@ -65,12 +65,11 @@ The following shall be the Office Bearers of the club, of which Le Grande Fromag
 * Responsible for communicating and organising events with the Cheese Industry.
 
 ### 6.3 Disqualification of Committee Members
-
-* The office of a Committee member shall become vacant if a Committee member is:
+The office of a Committee member shall become vacant if a Committee member is:
 * Expelled as a member under this constitution.
 * Resigns as a member of the club.
-* Fails to vote on three (3) meetings within the allocated 72 hour limit, without giving notice beforehand.
-* Has continually failed to meet their responsibilities, as deemed by a unanimous vote of the rest of the Committee.
+* Fails to vote on three (3) meetings within the allocated time limit, without giving notice beforehand.
+* Has continually failed to meet their responsibilities, as deemed by an otherwise unanimous vote during a Committee Meeting.
 
 ## 7 Meetings
 All meetings for the club will be held on slack at a specified date and time. Notice for meetings shall set out when the meeting will be held, and particulars of the nature and order of business to be transacted at the meeting. A quorum for a vote during a meeting of the association shall be the entire Committee lest those with given notice.
