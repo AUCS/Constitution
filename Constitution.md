@@ -72,17 +72,16 @@ The office of a Committee member shall become vacant if a Committee member is:
 * Has continually failed to meet their responsibilities, as deemed by an otherwise unanimous vote during a Committee Meeting.
 
 ## 7 Meetings
-All meetings for the club will be held on slack at a specified date and time. Notice for meetings shall set out when the meeting will be held, and particulars of the nature and order of business to be transacted at the meeting. A quorum for a vote during a meeting of the association shall be the entire Committee lest those with given notice.
+All meetings for the club will be held on slack at a specified date and time. Notice for meetings shall set out when the meeting will be held, and particulars of the nature and order of business to be transacted at the meeting. A quorum for a vote during a meeting of the association shall be the entire Committee less those with given notice.
 
-##### 7.1 Committee Meetings
-Three (3) days notice shall be given to the Committee for a Committee Meeting. Committee Meetings may or may not be open to members as decided when notice is given. All votes during a Committee Meeting will remain open for responses for 24 hours.
+### 7.1 Committee Meetings
+Three (3) days notice shall be given to the Committee for a Committee Meeting. Committee Meetings may or may not be open to non-committee Members as decided when notice is given. All votes during a Committee Meeting will remain open for responses for 24 hours.
 
-##### 7.2 General Meetings
-Seven (7) days notice shall be given to members for an Annual General Meeting or Special General Meeting. All votes during an AGM or SGM will remain open for responses for 72 hours.
-
+### 7.2 General Meetings
+Seven (7) days notice shall be given to Members for an Annual General Meeting or Special General Meeting. All votes during an AGM or SGM will remain open for responses for 72 hours.
 
 ## 8 Prohibition Against Securing Profits for Members
-The income and capital of the association shall be applied exclusively to the promotion of its objects and no portion shall be paid or distributed directly or indirectly to members or their associates except as bona fide remuneration of a member for services rendered or expenses incurred on behalf of the association.
+The income and capital of the association shall be applied exclusively to the promotion of its objectives and no portion shall be paid or distributed directly or indirectly to members or their associates except as bona fide remuneration of a member for services rendered or expenses incurred on behalf of the association.
 
 ## 9 Winding Up
 The association may be wound upon the special resolution of the association in accordance with its rules. Upon winding up of the club, net assets (residual amount after all outstanding expenses are paid) are to be transferred to the AUU Clubs.
