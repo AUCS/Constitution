@@ -30,7 +30,7 @@ In order for a new member to join the club, the club must comprise of at least h
 ### 5.2 Resignation
 Members may resign from membership of the association by giving written notice to the Committee. Any resigning member be liable for any outstanding subscriptions which may be recovered as a debt due to the association.
 
-### 5.3 Explusion
+### 5.3 Expulsion
 Subject to giving a member an opportunity to be heard or to make a written submission, the Committee may recommend the explusion of a member upon a charge of misconduct detrimental to the interests of the association or its affiliates or the University.
 
 ## 6 The Committee
