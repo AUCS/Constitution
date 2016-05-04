@@ -19,13 +19,13 @@ The name of the unincorporated association/club is Adelaide University Cheese So
 * The Club will have multiple social media accounts, as managed by Le Petit Grand Fromage.
 
 ## 4 Purpose of the association
-The purpose of the association is to bring people together over a shared love of cheese, and so that members can share and grow their detailed knowledge of cheese.
+The purpose of the association is to bring people together over a shared love of cheese, and so that Members can share and grow their detailed knowledge of cheese.
 
 ## 5 Membership
 Members may freely join and resign from the club, so long as they meet the requirements regarding membership.
 
 ### 5.1 Registration
-In order for a new member to join the club, the club must comprise of at least half (50%) Adelaide University Students and Staff including the new member. If existing members stop being registered students or staff such that the club falls below this threshold, they are not required to leave.
+In order for a new member to join the club, the club must comprise of at least half (50%) Adelaide University Students and Staff including the new member. If existing Members stop being registered students or staff such that the club falls below this threshold, they are not required to leave.
 
 ### 5.2 Resignation
 Members may resign from membership of the association by giving written notice to the Committee. Any resigning member be liable for any outstanding subscriptions which may be recovered as a debt due to the association.
@@ -81,10 +81,10 @@ Three (3) days notice shall be given to the Committee for a Committee Meeting. C
 Seven (7) days notice shall be given to Members for an Annual General Meeting or Special General Meeting. All votes during an AGM or SGM will remain open for responses for 72 hours.
 
 ## 8 Prohibition Against Securing Profits for Members
-The income and capital of the association shall be applied exclusively to the promotion of its objectives and no portion shall be paid or distributed directly or indirectly to members or their associates except as bona fide remuneration of a member for services rendered or expenses incurred on behalf of the association.
+The income and capital of the association shall be applied exclusively to the promotion of its objectives and no portion shall be paid or distributed directly or indirectly to Members or their associates except as bona fide remuneration of a member for services rendered or expenses incurred on behalf of the association.
 
 ## 9 Winding Up
 The association may be wound upon the special resolution of the association in accordance with its rules. Upon winding up of the club, net assets (residual amount after all outstanding expenses are paid) are to be transferred to the AUU Clubs.
 
 ## 10 Disaffiliation from AUU Clubs
-The association may be disaffiliated from the AUU Clubs in accordance with its rules. Upon disaffiliation of the club, net assets (residual amount after all outstanding expenses are paid) are to be kept within the club in accordance with the rest of this constitution, in particular Section 9.
+The association may be disaffiliated from the AUU Clubs in accordance with its rules. Upon disaffiliation of the club, net assets (residual amount after all outstanding expenses are paid) are to be kept within the club in accordance with the rest of this constitution, in particular Section 8.
