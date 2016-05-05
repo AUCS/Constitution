@@ -31,7 +31,14 @@ In order for a new member to join the club, the club must comprise of at least h
 Members may resign from membership of the association by giving written notice to the Committee. Any resigning member be liable for any outstanding subscriptions which may be recovered as a debt due to the association.
 
 ### 5.3 Expulsion
-Subject to giving a member an opportunity to be heard or to make a written submission, the Committee may recommend the explusion of a member upon a charge of misconduct detrimental to the interests of the association or its affiliates or the University.
+Subject to giving a member an opportunity to be heard or to make a written submission, the Committee may recommend the expulsion of a member upon a charge of misconduct detrimental to the interests of the association or its affiliates or the University.
+
+### 5.4 Premium Memberships
+Premium members follow the same registration, resignation, and expulsion rules as standard memberships. They additionally require a yearly fee as decided by the committee at the AGM. Premium Members benefit from price discounts at a variety of events as described by the committee.
+
+### 5.5 Lifetime Memberships
+Lifetime memberships may be granted by unanimous committee and other lifetime members vote for members that show exemplary dedication to pursuing the clubs objectives to a higher degree than required or expected. Lifetime members differ from clause 5.3 in that the expulsion vote must include other lifetime members as well and be unanimous.
+
 
 ## 6 The Committee
 The Committee shall be responsible for the management of the club. The Committee has the managment and control of the funds and other assets and accounts of the association.
