@@ -27,7 +27,7 @@ There are three levels of membership within the club. Members may freely join an
 ### 5.1 Standard Members
 Standard Members recieve event notifications and are welcome but not required to vote on any open polls within the club.
 
-### 5.1.1 Registration
+##### 5.1.1 Registration
 In order for a new standard member to join the club, the club must comprise of at least half (50%) Adelaide University Students and Staff including the new member. If existing Members stop being registered students or staff such that the club falls below this threshold, they are not required to leave.
 
 ##### 5.1.2 Resignation
