@@ -4,23 +4,23 @@ The current committee of the Adelaide University Cheese Society
 
 ## 1 Filled Positions
 
-#### Office Bearers
+#### 1.1 Office Bearers
 
 * Le Grand Fromage - Lucas Sargent
 * Le Petit Grand Fromage - Claudia Davey
 * Cheese Raiser - Jason Tosolini
 * The Keeper of Cheese - Brent Williams
 
-#### General Members
+#### 1.2 General Members
 
 * Joshua Wood
 
-## Vacant Positions
+## 2 Vacant Positions
 
-#### Office Bearers
+#### 2.1 Office Bearers
 
 * Industry Spokescheese
 
-#### General Members
+#### 2.2 General Members
 
 * Four (4) general member positions
