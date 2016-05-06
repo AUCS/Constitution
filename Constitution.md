@@ -11,7 +11,7 @@ The name of the unincorporated association/club is Adelaide University Cheese So
 * 'The University' means the The University of Adelaide.
 * 'The Committee' means the Committee managing the club.
 * 'AGM' means the Annual General Meeting.
-* 'Slack' means the Slack communication platform, as described [here](https://slack.com/).
+* 'Slack' means the Slack communication platform, as described at [https://slack.com/](https://slack.com/).
 
 ## 3 Registration
 * The Club will be registered with the Adelaide University Union.
